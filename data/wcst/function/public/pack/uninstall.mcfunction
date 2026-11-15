@@ -1,0 +1,1 @@
+# Uninstalls the datapack.

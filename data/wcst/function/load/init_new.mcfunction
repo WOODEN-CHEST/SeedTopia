@@ -1,0 +1,1 @@
+# Initializes the stuff for this datapack on a new installation.
